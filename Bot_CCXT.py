@@ -10,8 +10,8 @@ symbol= 'ETH/USDT'
 binance_testnet = ccxt.binance({
     'apiKey': api_key,
     'secret': api_secret,
-    'enableRateLimit': True, #es un parámetro booleano que, cuando se establece en True, indica a ccxt que 
-})                           #debe gestionar automáticamente el control de la tasa de llamadas a la API.
+    'enableRateLimit': True, #is a boolean parameter that, when set to True, tells ccxt 
+})                           # to automatically handle API call rate control.
 
 binance_testnet.set_sandbox_mode(True)
 exchange = ccxt.binance({ 'timeout': 30000 })
