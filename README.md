@@ -22,5 +22,17 @@ The code includes:
 ````bash 
 git clone https://github.com/IvanG-Prog/Bot.git
 
-## Article on Medium
-You can read the article about the trading bot on Medium: [Link to Medium](https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac)
+###Article on Medium
+You can read the article about the trading bot on Medium:
+`<link>` : <https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac>
+
+
+
+
+
+
+
+
+## Artículo en Medium
+Puedes leer el artículo sobre el trading bot en Medium:
+[Cómo crear un bot de trading automatizado](https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac)
