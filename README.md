@@ -21,3 +21,6 @@ The code includes:
 1. Clone the repository:
 ````bash 
 git clone https://github.com/IvanG-Prog/Bot.git
+
+## Article on Medium
+You can read the article about the trading bot on Medium: [Link to Medium](https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac)
