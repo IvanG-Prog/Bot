@@ -29,7 +29,3 @@ git clone https://github.com/IvanG-Prog/Bot.git
 
 
 
-
-
-
-
