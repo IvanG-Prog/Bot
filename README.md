@@ -17,12 +17,19 @@ The code includes:
 - Learn about cryptocurrency exchange APIs
 - Explore the automation of trading tasks
 
-###Article on Medium
+## Article on Medium
 You can read the article about the trading bot on Medium:
-`<link>` : <https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac>
+[How to create a trading bot](https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac)
 
 ## Installation
 1. Clone the repository:
 ````bash
 git clone https://github.com/IvanG-Prog/Bot.git
+
+
+
+
+
+
+
 
