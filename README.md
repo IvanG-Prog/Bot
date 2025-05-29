@@ -19,7 +19,7 @@ The code includes:
 
 ## Article on Medium
 You can read the article about the trading bot on Medium:
-[How to create a trading bot](https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac)
+<a href="https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac" target="_blank">How to create a trading bot</a>
 
 ## Installation
 1. Clone the repository:
