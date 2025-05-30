@@ -18,8 +18,8 @@ The code includes:
 - Explore the automation of trading tasks
 
 **Articles on Medium:**
-- [CCXT Trading Bot](https://link-to-your-ccxt-trading-bot-article) — How to create a trading bot with ccxt.
-- [Indicator-based Analysis Bot](https://link-to-your-indicators-article) — How to develop a bot focused solely on technical analysis and signal detection.
+- [CCXT Trading Bot](https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac) — How to create a trading bot with ccxt.
+- [Indicator-based Analysis Bot](https://medium.com/@ivanjesusgarcia1/how-to-incorporate-technical-indicators-into-a-trading-bot-with-python-55bbcfbfbc32) — integration of technical indicators
   
 ## Installation
 1. Clone the repository:
