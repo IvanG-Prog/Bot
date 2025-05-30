@@ -17,10 +17,10 @@ The code includes:
 - Learn about cryptocurrency exchange APIs
 - Explore the automation of trading tasks
 
-## Article on Medium
-You can read the article about the trading bot on Medium:
-<a href="https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac" target="_blank">How to create a trading bot</a>
-
+**Articles on Medium:**
+- [CCXT Trading Bot](https://link-to-your-ccxt-trading-bot-article) — How to create a trading bot with ccxt.
+- [Indicator-based Analysis Bot](https://link-to-your-indicators-article) — How to develop a bot focused solely on technical analysis and signal detection.
+  
 ## Installation
 1. Clone the repository:
 ````bash
