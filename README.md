@@ -17,7 +17,7 @@ The code includes:
 - Learn about cryptocurrency exchange APIs
 - Explore the automation of trading tasks
 
-**Articles on Medium:**
+## Articles on Medium:**
 - [CCXT Trading Bot](https://medium.com/@ivanjesusgarcia1/how-to-create-an-automated-trading-bot-5b61d75ab6ac) — How to create a trading bot with ccxt.
 - [Indicator-based Analysis Bot](https://medium.com/@ivanjesusgarcia1/how-to-incorporate-technical-indicators-into-a-trading-bot-with-python-55bbcfbfbc32) — integration of technical indicators
   
