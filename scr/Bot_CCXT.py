@@ -32,7 +32,7 @@ if notional_filter:
 else:                                                    # converted to a number. If there is no 'NOTIONAL' filter, a default value is assigned.
     min_notional = 10  # Default 10 USDT
 
-print("Notional minimum:", min_notional, "USDT")
+#print("Notional minimum:", min_notional, "USDT")
 
 ###########################################-3-######################################################################
 
@@ -45,20 +45,24 @@ max_errors = 5
 
 ##############################################-4-###################################################################
 def create_order(symbol, order_type, side, amount): # order_type if we want to add other type
+    order= None
+
     try:
       
         if order_type == 'market':
              if side == 'buy':
                 order = binance_testnet.create_market_buy_order(symbol, amount)
-        else:
-            order = binance_testnet.create_market_sell_order(symbol, amount)
-        print("Order created:", order)
+
+             elif side == 'sell':
+                order = binance_testnet.create_market_sell_order(symbol, amount)
+                
+        if order:
+            print("Order created:", order)
         return order
    
     except ccxt.BaseError as e:
         print("Error creating order:", e)
         return None
-    
 ##############################################-5-###################################################################
 
 def get_current_price():
